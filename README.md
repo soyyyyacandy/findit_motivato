@@ -1,5 +1,5 @@
 # MOTIVATO, Motivate Together!
-![Uploading image.png…]()
+![image](https://github.com/soyyyyacandy/findit_motivato/assets/169473194/a711f4fa-05be-408d-bc43-6a62a8fb2b8b)
 
 Kalau ingin jalan cepat, jalanlah sendiri. Kalau ingin jalan jauh, jalanlah dengan teman. Ini prinsip utama dari aplikasi Motivato yang dibuat tim kita, YOW!
 
