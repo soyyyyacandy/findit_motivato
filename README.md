@@ -9,9 +9,10 @@ Fitur obrolan ini memungkinkan pengguna untuk berbagi tujuan mereka dan mendapat
 Selain itu, Motivato juga memungkinkan pengguna untuk melihat pencapaian teman-teman mereka, memberikan dukungan, dan merayakan kesuksesan bersama. Dengan demikian, aplikasi ini menciptakan lingkungan yang mendukung dan memotivasi di antara pengguna, membantu mereka untuk tetap fokus dan mencapai tujuan mereka. Dengan Motivato, motivasi bukanlah perjalanan yang dilakukan sendirian, tetapi sebuah perjalanan yang dilakukan bersama-sama.
 
 ## Snapshots: 
-![image](https://github.com/soyyyyacandy/motivato/assets/169473194/47a0d539-4921-4eb8-b218-be6592e82db7)
+![image](https://github.com/soyyyyacandy/findit_motivato/assets/169473194/4c78d9d6-1f13-4bcc-ab41-44520ea58ecf)
 
-![image](https://github.com/soyyyyacandy/motivato/assets/169473194/515d026c-0d28-4880-8716-201d7efc475e)
+
+![image](https://github.com/soyyyyacandy/findit_motivato/assets/169473194/c9221117-587b-445d-9cee-3e45e3e7cea9)
 
 # About the Repo: 
 Repository ini terdiri dari .apk (aplikasi Motivato sendiri), dan source code motivato. 
