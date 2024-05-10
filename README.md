@@ -9,6 +9,9 @@ Fitur obrolan ini memungkinkan pengguna untuk berbagi tujuan mereka dan mendapat
 
 Selain itu, Motivato juga memungkinkan pengguna untuk melihat pencapaian teman-teman mereka, memberikan dukungan, dan merayakan kesuksesan bersama. Dengan demikian, aplikasi ini menciptakan lingkungan yang mendukung dan memotivasi di antara pengguna, membantu mereka untuk tetap fokus dan mencapai tujuan mereka. Dengan Motivato, motivasi bukanlah perjalanan yang dilakukan sendirian, tetapi sebuah perjalanan yang dilakukan bersama-sama.
 
+## Link Video Demo:
+https://drive.google.com/file/d/1L6fPZf_RRfG7lETA7fQDKOe7XIcREc6I/view?usp=drive_link
+
 ## Snapshots: 
 ![image](https://github.com/soyyyyacandy/findit_motivato/assets/169473194/4c78d9d6-1f13-4bcc-ab41-44520ea58ecf)
 
