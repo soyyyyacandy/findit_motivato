@@ -29,4 +29,9 @@ Untuk mengeksekusi source code motivato ini, pakailah command "flutter pub get",
 <a href="https://www.flaticon.com/free-icons/emoji" title="emoji icons">Emoji icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/star" title="star icons">Star icons created by Freepik - Flaticon</a>
 
+## Team:
+Flori Andrea Ng
+Keira Diaz Nabhani
+Catherine Aurellia
+
 Made with Love, YOW!
