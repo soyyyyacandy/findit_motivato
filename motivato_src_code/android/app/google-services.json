@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100035573401",
+    "project_id": "motivated-f7616",
+    "storage_bucket": "motivated-f7616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100035573401:android:e97a96fe216aa177076a08",
+        "android_client_info": {
+          "package_name": "com.example.motivato"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhATaAm8GpXJ6bP-m3uM7JPQIPHO9EGBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

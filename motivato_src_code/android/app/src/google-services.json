@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "396146013629",
+    "project_id": "motivato-2a9b2",
+    "storage_bucket": "motivato-2a9b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396146013629:android:ed6fd97bd0289e38360ed4",
+        "android_client_info": {
+          "package_name": "com.example.motivato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396146013629-91ed6e5ncrjh61cug06raipk3ou09mh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNczyjKwQPLXmZwJIT2RWJr80N6CZX3kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396146013629-91ed6e5ncrjh61cug06raipk3ou09mh9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "396146013629-ejh5venp7ap1ep81oq6rlsi0vun5612s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.motivato"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
