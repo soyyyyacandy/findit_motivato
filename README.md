@@ -1,4 +1,5 @@
 # MOTIVATO, Motivate Together!
+![Uploading image.png…]()
 
 Kalau ingin jalan cepat, jalanlah sendiri. Kalau ingin jalan jauh, jalanlah dengan teman. Ini prinsip utama dari aplikasi Motivato yang dibuat tim kita, YOW!
 
